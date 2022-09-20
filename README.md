@@ -4,7 +4,6 @@
 🔗[Clique aqui para acessar](eduevangelista.github.io/weather/)
 
 
-
 ## 🛠 Tecnologias   
 
 - Java Script
