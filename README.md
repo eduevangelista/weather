@@ -12,7 +12,7 @@
 - CSS
 - Weather API
 
-##🕑 Desenvolvimento do projeto
+## 🕑 Desenvolvimento do projeto
 
 - Projeto criado à partir da video aula do professor Matheus Battisti. Consumindo dados de API e trazendo as condições climáticas da cidade desejada de qualquer lugar do mundo.
 
