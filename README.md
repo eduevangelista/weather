@@ -12,12 +12,12 @@
 - CSS
 - Weather API
 
-## Desenvolvimento do projeto
+##🕑 Desenvolvimento do projeto
 
 - Projeto criado à partir da video aula do professor Matheus Battisti. Consumindo dados de API e trazendo as condições climáticas da cidade desejada de qualquer lugar do mundo.
 
 
 
-## Contato
+## 📞Contato
 - eduevangelista99@gmail.com
 - (11) 95933-1973
