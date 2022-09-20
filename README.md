@@ -1,9 +1,6 @@
 #  Clima e Tempo
 
 
-🔗[Clique aqui para acessar](eduevangelista.github.io/weather/)
-
-
 ## 🛠 Tecnologias   
 
 - Java Script
